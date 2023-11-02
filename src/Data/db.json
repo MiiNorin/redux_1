@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@in.com",
+      "course": "Music"
+    },
+    {
+      "id": 2,
+      "name": "Suresh",
+      "email": "sr@in.com",
+      "course": "Literature"
+    },
+    {
+      "id": 3,
+      "name": "Ramesh",
+      "email": "ra.admin@in.com",
+      "course": "IT"
+    },
+    {
+      "name": "Akilash",
+      "email": "ak@in.com",
+      "course": "English",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "email": "test@gmail.com",
+      "course": "Math"
+    }
+  ],
+  "account": [
+    {
+      "username": "AdminUser",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "username": "NormalUser",
+      "password": "justA",
+      "role": "normal"
+    }
+  ]
+}
